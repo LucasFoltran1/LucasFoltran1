@@ -27,6 +27,6 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 ## 🎯 Expectativas para o Futuro
 
 **Com o término do curso, pretendo entrar em uma faculdade e cursar engenharia de software. Além disso, espero conseguir um estágio como desenvolvedor e poder aplicar o que aprendi em projetos reais. 
-Meu objetivo é sair do país e me tornar um grande engenheiro de software poder trabalhar com o que eu mais gosto de fazer**. 
+Meu objetivo é sair do país e me tornar um grande engenheiro de software e poder trabalhar com o que eu mais gosto de fazer**. 
 
 
